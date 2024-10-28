@@ -1,0 +1,5 @@
+<svg id="buy" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M17 18L7.00009 18C5.34324 18 4.0001 16.6569 4.00008 15L4.00003 9.00003C4.00001 7.34316 5.34316 6 7.00003 6L17 6C18.6569 6 20 7.34315 20 9L20 15C20 16.6568 18.6569 18 17 18Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M4 10H20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <rect x="7" y="13" width="3" height="2" rx="1" fill="currentColor"/>
+</svg>
